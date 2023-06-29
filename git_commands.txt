@@ -1,0 +1,3 @@
+pushing a local branch: git push -u origin [BranchName]
+connecting local repo to remote: git add remote origin [RepoName]
+

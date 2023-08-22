@@ -14,3 +14,6 @@ def multiply(num1,num2):
 
 def square(num):
     return math.sqrt(num)
+def power(num):
+    return num **2
+
